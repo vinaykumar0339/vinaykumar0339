@@ -1,7 +1,7 @@
 ## Vinay Kumar - iOS Developer | SwiftUI
 ----------------------------------------
 
-* Phone - 9985293675
+* Phone - +919985293675
 * Email - vinay9961@gmail.com
 * [Dev.to](https://dev.to/vinaykumar0339/)
 
