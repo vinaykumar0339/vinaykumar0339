@@ -1,4 +1,4 @@
-## Hi there 👋
+## Vinay Kumar - iOS Developer | SwiftUI
 
 <!--
 **vinaykumar0339/vinaykumar0339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
