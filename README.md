@@ -2,7 +2,7 @@
 
 * Phone - +919985293675
 * Email - vinay9961@gmail.com
-* [Dev.to](https://dev.to/vinaykumar0339/) | [LinkedIn](https://www.linkedin.com/in/vinay-kumar-0339/) | [StackOverflow](https://stackoverflow.com/users/20378132/vinay-kumar)
+* [Dev.to](https://dev.to/vinaykumar0339/) | [LinkedIn](https://www.linkedin.com/in/vinay-kumar-0339/) | [StackOverflow](https://stackoverflow.com/users/20378132/vinay-kumar?tab=profile)
 
 
 ## Professional Experience - [2021 - Present]
