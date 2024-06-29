@@ -8,7 +8,7 @@
 ## Professional Experience - [2021 - Present]
 | Company    | Role    | Duration    |
 |-------------|-------------|-------------|
-| [Vymo](https://vymo.com/)  | Senior of Technical Staff | 2023 - Present |
+| [Vymo](https://vymo.com/)  | Senior Member of Technical Staff | 2023 - Present |
 | [Vymo](https://vymo.com/)  | Member of Technical Staff | 2022 - 2023 |
 | [Vymo](https://vymo.com/)  | Intern | 2021 - 2022 |
 
