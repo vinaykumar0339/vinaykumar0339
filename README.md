@@ -3,7 +3,7 @@
 
 * Phone - 9985293675
 * Email - vinay9961@gmail.com
-* [Dev.to](https://dev.to/vinaykumar0339/){:target="_blank"}
+* <a href="https://dev.to/vinaykumar0339/" target="_blank">Dev.to</a>
 
 <!--
 **vinaykumar0339/vinaykumar0339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
