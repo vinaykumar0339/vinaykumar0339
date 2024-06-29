@@ -1,5 +1,4 @@
 ## Vinay Kumar - iOS Developer | SwiftUI
-----------------------------------------
 
 * Phone - +919985293675
 * Email - vinay9961@gmail.com
@@ -7,7 +6,6 @@
 
 
 ## Professional Experience - [2021 - Present]
----------------------------------------------
 | Company    | Role    | Duration    |
 |-------------|-------------|-------------|
 | [Vymo](https://vymo.com/)  | Senior of Technical Staff | 2023 - Present |
