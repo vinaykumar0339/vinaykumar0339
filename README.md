@@ -13,8 +13,7 @@
 | [Vymo](https://vymo.com/)  | Intern | 2021 - 2022 |
 
 ## Swift UI Apps
-### Weather App Demo
-[Github Link](https://github.com/vinaykumar0339/SwiftUIApps/tree/main/WeatherApp)
+### [Weather App Demo](https://github.com/vinaykumar0339/SwiftUIApps/tree/main/WeatherApp)
 <img src="https://github.com/vinaykumar0339/SwiftUIApps/blob/main/Demos/WeatherApp.gif" alt="Weather App Demo" width="200" height="400">
 
 <!--
