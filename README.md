@@ -12,6 +12,10 @@
 | [Vymo](https://vymo.com/)  | Member of Technical Staff | 2022 - 2023 |
 | [Vymo](https://vymo.com/)  | Intern | 2021 - 2022 |
 
+## Swift UI Apps
+### Weather App Demo
+<img src="https://github.com/vinaykumar0339/SwiftUIApps/blob/main/Demos/WeatherApp.gif" alt="Weather App Demo" width="200" height="400">
+
 <!--
 **vinaykumar0339/vinaykumar0339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
