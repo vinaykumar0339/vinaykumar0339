@@ -21,7 +21,7 @@ JexLang can be embedded across almost any application stack:
 
 | Language | Status | Where You Can Use It |
 |---------|--------|-----------------------|
-| **Swift** | ✅ Production Ready | iOS apps, automation engines, formula evaluation, workflow logic. |
+| **Swift** | 🚧 In Progress | iOS apps, automation engines, formula evaluation, workflow logic. |
 | **JavaScript** | ✅ Production Ready | Browser apps, Node.js APIs, no-code/low-code rule engines, dynamic config-based logic. |
 | **Java** | ✅ Production Ready | Backend microservices, workflow engines, enterprise rules, data pipelines. |
 
